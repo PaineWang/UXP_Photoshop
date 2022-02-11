@@ -1,4 +1,4 @@
-# Photoshop for UXP plugin
+# Photoshop for UXP plugin transalte text
 
  ## MODE
   `Automatic`Automatically read the text layers in the document and select them all.
